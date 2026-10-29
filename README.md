@@ -66,7 +66,7 @@ This project demonstrates the use of Excel and Power BI to transform raw data in
 
 Author
 Christiana Akpan
-Data Analyst | Computer Science Student
+Data Analyst 
 
 Skills: Microsoft Excel | SQL| Power BI | Data Cleaning | Data Analysis | Data Visualization | Reporting
 
